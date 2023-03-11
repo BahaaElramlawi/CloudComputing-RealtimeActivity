@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281395175642",
+    "project_id": "cloud-realtimeactivity",
+    "storage_bucket": "cloud-realtimeactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281395175642:android:57ce77feb56ffec75185e3",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputing_realtimeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281395175642-e0plgb7v75cahqj9n9pklvln51euq2sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmkAYwXeMF8GaxivhxvUpHojlxqSSJ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281395175642-e0plgb7v75cahqj9n9pklvln51euq2sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
